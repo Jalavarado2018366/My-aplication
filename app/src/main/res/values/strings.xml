@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txt_View_String">Estatus del Alumno</string>
+    <string name="txt_Matematicas">Matematicas</string>
+    <string name="txt_Fisica">Fisica</string>
+    <string name="txt_Quimica">Quimica</string>
+    <string name="Button_Evaluar">Evaluar</string>
+</resources>
